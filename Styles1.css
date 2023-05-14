@@ -1,0 +1,171 @@
+
+#first-p
+{
+    
+    
+    background-color: lightblue
+    
+}
+#par1
+{
+    display:inline;
+    float: left;
+    font-family: arial;
+    font-size: 35px; 
+    
+    margin-left: 60px;
+    margin-top: 40px;
+    
+    
+    
+}
+
+#par1::first-letter{
+  color:#620DF6;
+}
+#par2{
+  display: inline;
+  float: right;
+  font-family: arial;
+    font-size: 20px;
+    text-decoration: none;
+   color: #620DF6;
+    
+}
+
+#images{
+  width: 100%;
+  height: auto;
+}
+
+#tab1{
+ position: relative;
+  margin-top: 50px;
+  box-shadow: 5px 2px 2px 5px  #620DF6 ;
+  padding-left: 30px;
+  margin-left:-50px;
+  border-radius: 20px;
+}
+#tab3{
+ position: relative;
+  margin-top: 50px;
+  box-shadow: 5px 2px 2px 5px  #620DF6 ;
+  border-radius: 20px;
+  
+}
+
+#pic{
+  max-height: 20px;
+  max-width: 20px;
+}
+
+#par3{
+  display: inline;
+  float: right;
+  font-family: arial;
+    font-size: 20px;
+    text-decoration: none;
+   margin-right: 60px;
+    
+}
+ #parwel{
+   font-family:New Century Schoolbook;
+   font-size: 40px;
+   
+ }
+ #tab2,#tab3{
+   width:300px;
+   background-color: none;
+   margin-right:50px;
+   padding: 20px;
+  
+  
+ }
+ #tab3{
+  
+ }
+ #images{
+ 
+ }
+ #plogin{
+   margin-top:-40px;
+   font-size: 20px;
+   font-family:New Century Schoolbook;
+   color:#A89E9E;
+ }
+ #in,#in2{
+   height: 45px;
+   width: 400px;
+   background-color: none;
+   border:2px solid  #620DF6;
+   margin-top:10px;
+   border-radius: 3px;
+   
+   
+ }
+ 
+ #in3{
+   height: 55px;
+   width:155px;
+   background-color:#620DF6 ;
+   border-radius: 40px;
+   color:white;
+   font-family:New Century Schoolbook;
+   margin-top:40px;
+   border:1px solid #620DF6;
+   font-size: 20px;
+   
+
+ }
+ ::placeholder{
+   font-family:New Century Schoolbook ;
+   padding-left: 30px;
+ }
+ #i4{
+   text-decoration: none;
+   font-size: 17px;
+   color:#A89E9E;
+   margin-left:80px;
+   margin-top:40px;
+ }
+ 
+#loginwith{ margin-top:1000px;
+   font-size: 17px;
+   font-family:New Century Schoolbook;
+   color:#A89E9E;
+  
+}
+#pic{
+  margin-left:30px;
+}
+        
+.fafa-usericon{
+  position:relative;
+  margin-top:50px;
+}
+
+#img5,#img4{
+  display:inline;
+  height:55px;
+  width:55px;
+}
+#inputtd,#inputtd2{
+  display:inline-block;
+  
+}
+   #in[type="text"]{
+     color:blue;
+     font-size: 20px;
+     font-family: Times New Roman;
+     font-style: bold;
+     background-color:#D4ADFC ;
+     
+   }
+   #in,#in2,#in3[type="text"]{
+     color:blue;
+     font-size: 20px;
+     font-family: Times New Roman;
+     font-style: bold;
+     background-color:#D4ADFC ;
+     
+   }
